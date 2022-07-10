@@ -1,0 +1,13 @@
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\bin\Debug\iterationexercise1.exe.config
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\bin\Debug\iterationexercise1.exe
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\bin\Debug\iterationexercise1.pdb
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\bin\Debug\DryIoc.dll
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\bin\Debug\System.ValueTuple.dll
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\bin\Debug\DryIoc.xml
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\bin\Debug\System.ValueTuple.xml
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\obj\Debug\iterationexercise1.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\obj\Debug\iterationexercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\obj\Debug\iterationexercise1.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\obj\Debug\iterationexercise1.csproj.CopyComplete
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\obj\Debug\iterationexercise1.exe
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise1\iterationexercise1\obj\Debug\iterationexercise1.pdb

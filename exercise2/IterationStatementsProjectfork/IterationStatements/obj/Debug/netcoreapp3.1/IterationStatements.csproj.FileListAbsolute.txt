@@ -1,0 +1,14 @@
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.exe
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.deps.json
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.runtimeconfig.json
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.runtimeconfig.dev.json
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.dll
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.pdb
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.AssemblyInfo.cs
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.dll
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.pdb
+C:\Users\Joseph\Desktop\Repos\Iterationstatements\exercise2\IterationStatementsProjectfork\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.genruntimeconfig.cache
